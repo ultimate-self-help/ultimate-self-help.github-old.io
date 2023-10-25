@@ -1,0 +1,13 @@
+---
+layout: post
+title: Binding html select using knockoutjs and asp.net mvc
+date: '2023-10-25T18:42:00.001+05:30'
+author: Naveen
+categories: [item1, item2]      # notice that there are no more than two items.
+tags: [item1, item2, ... itemN ]
+
+---
+
+# Post 1
+
+Blah
